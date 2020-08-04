@@ -1,8 +1,7 @@
 let rs = require('readline-sync')
-
 let usuario = {
-    login: 'danidani',
-    senha: 'arbyte'
+    login: 'chris',
+    senha: 'funciona'
 }
 
 let login = rs.question('Login: ')

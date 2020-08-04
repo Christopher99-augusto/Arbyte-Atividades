@@ -5,14 +5,14 @@ function formatarValor(valor) {
 }
 
 let usuario = {
-    nome: 'Daniel',
-    login: 'danidani',
-    senha: 'arbyte'
+    nome: 'Chrsitopher',
+    login: 'chris',
+    senha: 'funciona'
 }
 
 let produtos = {
-    carros: ['1 - Mercedes-Benz GLE 63 AMG - 2019', '2 - Mercedes AMG GT-R Pro - 2020', '3 - Porshe 911 GT3 RS - 2020', '4 - BMW X6 xDrive40i M Sport - 2020', '5 - Range Rover Evoque R-Dynamic HSE P300 - 2020'],
-    precos: [729000, 1699000, 1242000, 514950, 322300]
+    carros: ['1 - Ds3 1.6 turbo forjado tudo que da 500cv', '2 - Suzuki Swift 1.4 supercharger forjado tudo que da 470cv', '3 - Evo 6 2.0 turbo forjado tudo que da 600cv ', '4 - Colt 1.6 turbo forjado tudo que da 380cv', '5 - Marrua MWM 2.8 turdo disel forjado tudo que da 690cv'],
+    precos: [62000, 58000, 500000, 26000, 169000]
 }
 
 let login = rs.question('Login: ')
